@@ -29,10 +29,15 @@
    "platform": "FACEBOOK",
    "link": "https://www.facebook.com/watch/?v=424146415415303"
  },
-  {
+ {
    "source": "NEWSMAX",
    "platform": "YOUTUBE",
    "link": "https://www.youtube.com/watch?v=39WrSskl3XE"
+ },
+ {
+   "source": "NEWSNOW FOX",
+   "platform": "YOUTUBE",
+   "link": "https://www.youtube.com/watch?v=OPrpTNB9y6Y"
  }
 ]
 
